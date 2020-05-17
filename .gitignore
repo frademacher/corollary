@@ -1,0 +1,4 @@
+*.ods
+__pycache__/
+*.py~
+*.formula
